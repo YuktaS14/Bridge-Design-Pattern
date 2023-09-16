@@ -23,11 +23,22 @@ namespace BridgeDesignPattern
     /// </summary>
     public class MakeCall : Features
     {
+        /// <summary>
+        /// _name stores the name of the the person whom user wants to contact.
+        /// </summary>
         private readonly string _name;
 
+        /// <summary>
+        /// MakeCall class can be used to implement different functionalities needed for using call feature. 
+        /// </summary>
         public MakeCall(string name) { 
             _name = name;
         }
+
+        /// <summary>
+        /// By default the Application used would be WhatsApp.
+        /// Work() is overriden to use the MakeCall feature.
+        /// </summary>
         public override string Work()
         {
             _Application ??= new WhatsApp();
