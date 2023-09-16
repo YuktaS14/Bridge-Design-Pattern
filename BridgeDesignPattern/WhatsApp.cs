@@ -22,6 +22,9 @@ namespace BridgeDesignPattern
     /// </summary>
     public class WhatsApp : IApplication
     {
+        /// <summary>
+        /// UseFeature allows you to use a feature provided by WhatsApp Application.
+        /// </summary>
         public string UseFeature(string feature)
         {
             return (feature + " using WhatsApp.");
