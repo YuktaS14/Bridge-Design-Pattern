@@ -25,7 +25,7 @@ namespace BridgeDesignPattern
     public class Discord : IApplication
     {
         /// <summary>
-        /// UseFeature allows you to select a feature provided by Discord Application.
+        /// UseFeature allows you to use a feature provided by Discord Application.
         /// </summary>
         public string UseFeature(string feature)
         {
