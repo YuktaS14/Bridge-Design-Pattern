@@ -1,0 +1,11 @@
+C:\Users\HP\source\repos\BridgeDesignPattern\BridgeDesignPattern\bin\Debug\net6.0\BridgeDesignPattern.deps.json
+C:\Users\HP\source\repos\BridgeDesignPattern\BridgeDesignPattern\bin\Debug\net6.0\BridgeDesignPattern.dll
+C:\Users\HP\source\repos\BridgeDesignPattern\BridgeDesignPattern\bin\Debug\net6.0\BridgeDesignPattern.pdb
+C:\Users\HP\source\repos\BridgeDesignPattern\BridgeDesignPattern\obj\Debug\net6.0\BridgeDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\BridgeDesignPattern\BridgeDesignPattern\obj\Debug\net6.0\BridgeDesignPattern.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\BridgeDesignPattern\BridgeDesignPattern\obj\Debug\net6.0\BridgeDesignPattern.AssemblyInfo.cs
+C:\Users\HP\source\repos\BridgeDesignPattern\BridgeDesignPattern\obj\Debug\net6.0\BridgeDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\BridgeDesignPattern\BridgeDesignPattern\obj\Debug\net6.0\BridgeDesignPattern.dll
+C:\Users\HP\source\repos\BridgeDesignPattern\BridgeDesignPattern\obj\Debug\net6.0\refint\BridgeDesignPattern.dll
+C:\Users\HP\source\repos\BridgeDesignPattern\BridgeDesignPattern\obj\Debug\net6.0\BridgeDesignPattern.pdb
+C:\Users\HP\source\repos\BridgeDesignPattern\BridgeDesignPattern\obj\Debug\net6.0\ref\BridgeDesignPattern.dll
