@@ -22,8 +22,14 @@ namespace BridgeDesignPattern
     /// </summary>
     public abstract class Features
     {
+        /// <summary>
+        /// _Application is a reference to IApplication interface which allows user to decide the application at run time.
+        /// </summary>
         public IApplication? _Application;
-        
+
+        /// <summary>
+        /// Work() can be overriden to make use of specific feature from user specified application.
+        /// </summary>
         public abstract string Work();
     }
 }
