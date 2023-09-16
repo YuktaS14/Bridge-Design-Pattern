@@ -13,14 +13,17 @@ In the context of this project, we have implemented bridge design pattern for a 
 
 
 ### Without Using Bridge Pattern
-![UsingBridge](https://github.com/YuktaS14/BridgeDesignPattern/assets/85993659/fcce92d7-3102-4805-8cd3-ccd7868a5392)
+![UsingBridge](https://github.com/YuktaS14/Bridge-Design-Pattern/assets/85993659/ffcf275f-a156-4c1c-91c0-0c065c69497b)
+
 
 
 ### Using Bridge Pattern
-![Bridge](https://github.com/YuktaS14/BridgeDesignPattern/assets/85993659/4619c7e4-deda-4f1f-a530-e4553d3bbc1b)
+![Bridge](https://github.com/YuktaS14/Bridge-Design-Pattern/assets/85993659/4e00c508-9604-44c1-b769-c0b9be955183)
+
 
 ### Class Diagram 
-![ClassDiagram](https://github.com/YuktaS14/BridgeDesignPattern/assets/85993659/0bd1c534-3d91-4fb7-b7d2-d62cdfbf4799)
+![ClassDiagram](https://github.com/YuktaS14/Bridge-Design-Pattern/assets/85993659/b1199051-5030-4b6e-b8c4-fc6e38eaea24)
+
 
 
 ### Environment
