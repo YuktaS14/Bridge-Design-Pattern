@@ -22,7 +22,8 @@ In the context of this project, we have implemented bridge design pattern for a 
 
 
 ### Class Diagram 
-![ClassDiagram](https://github.com/YuktaS14/Bridge-Design-Pattern/assets/85993659/b1199051-5030-4b6e-b8c4-fc6e38eaea24)
+![WhatsApp Image 2023-09-17 at 15 51 44](https://github.com/YuktaS14/Bridge-Design-Pattern/assets/85993659/d833aa46-0c89-48b7-8f42-cc4d6b0b97fc)
+
 
 
 
